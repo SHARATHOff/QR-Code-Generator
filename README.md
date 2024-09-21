@@ -52,7 +52,7 @@ Run the python file
 ```
 ## Demo
 
-https://github.com/SHARATHOff/QR-Code-Generator/blob/main/Record_2024_09_21_14_23_25_847.mp4
+![]./Record_2024_09_21_14_23_25_847.mp4
 ## Feedback
 
 If you have any feedback, please reach out to us at sharathbalanjit@gmail.com 
